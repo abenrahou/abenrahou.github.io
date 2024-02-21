@@ -50,7 +50,7 @@ a {
 
 /* Header Styles */
 header {
-    background-image: url('./image.png/bannièreAnim.png'); 
+    background-image: url('./bannièreAnim.png'); 
     background-size: cover; /* Redimensionner l'image pour couvrir tout le header */
     background-position: center;
     background-repeat: no-repeat; 
